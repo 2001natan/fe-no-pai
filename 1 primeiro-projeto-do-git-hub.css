@@ -1,0 +1,78 @@
+* {
+    font-family: "Kanchenjunga", sans-serif;
+}
+
+.help {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+    color: #17233D;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 47px 33px 896px 42px;
+
+}
+
+.nata {
+    width: 533px;
+    height: 466.9px;
+    margin: 247px 0 0 142px;
+    display: inline-block;
+
+}
+
+.open1 {
+    border-radius: 6px;
+    border: 1px solid #4CB538;
+    background: #6FBF44;
+    width: 124px;
+    height: 51px;
+    color: #FFF;
+    margin: 48px;
+    cursor: pointer;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+
+}
+
+.macha {
+    display: inline-block;
+    margin-left: 84px;
+}
+
+.ola1 {
+
+    color: #161A49;
+    width: 582px;
+    font-size: 62px;
+    font-weight: 50000px;
+    line-height: 82px;
+}
+
+.ola2 {
+    color: #4B505A;
+    width: 393spx;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 33px;
+    width: 493px;
+    margin-bottom: 53px;
+    margin-top: 47px;
+}
+
+
+
+.to-confuso {
+    color: #6FBF44;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: normal;
+    cursor: pointer;
+    margin-top: 1007px;
+
+
+}
